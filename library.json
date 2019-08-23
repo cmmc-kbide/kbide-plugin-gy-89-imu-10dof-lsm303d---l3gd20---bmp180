@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-89-imu-10dof-lsm303d---l3gd20---bmp180",
+  "title": "gy-89-imu-10dof-lsm303d---l3gd20---bmp180",
+  "keywords": "gy-89-imu-10dof-lsm303d---l3gd20---bmp180, esp32, esp8266, arduino",
+  "description": "gy-89-imu-10dof-lsm303d---l3gd20---bmp180 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-89-imu-10dof-lsm303d---l3gd20---bmp180/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-89-imu-10dof-lsm303d---l3gd20---bmp180/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
